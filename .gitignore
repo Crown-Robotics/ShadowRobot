@@ -1,3 +1,6 @@
+# Text created using "git diff" to pass to ChatGPT to write AI "git commmit -m ???" messages
+diff.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
